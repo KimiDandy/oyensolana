@@ -47,7 +47,7 @@ export const SectionModel1 = () => {
             className="lg:text-[20px] text-center flex items-center justify-center w-[200px] h-[200px] text-white font-bold py-3 px-6 sm:py-3 sm:px-6 rounded-[10px] bg-cover bg-center bg-no-repeat"
             style={{
               backgroundImage:
-                "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('oyen/3.jpg')",
+                "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('oyen/5.jpg')",
             }}
           >
             Click here for more!
