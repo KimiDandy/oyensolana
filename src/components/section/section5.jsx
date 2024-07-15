@@ -3,12 +3,12 @@ export const SectionModel5 = () => {
     {
       icon: "media/Twitter1.png",
       judul: "TWITTER",
-      url: "https://x.com/ChibiCoinSolana?t=7_eAuwbCMKONVtqFwc1QsQ&s=09",
+      url: "https://x.com/OyenOnSolana?t=JwPX6jt0GpbMcY33Mh1uWg&s=09",
     },
     {
       icon: "media/Telegram.png",
       judul: "TELEGRAM",
-      url: "https://t.me/ChibiCoinSol",
+      url: "https://t.me/OyenOnSolana",
     },
   ];
   return (

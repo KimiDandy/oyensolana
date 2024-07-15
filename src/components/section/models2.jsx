@@ -48,7 +48,7 @@ export const SectionModel2 = () => {
         </div>
         <div className="--body flex flex-col gap-4">
           <p className="text-[18px] text-white font-medium lg:text-left text-center">
-          In the heart of a quaint little town, Chibi the cat charmed everyone with her delightful bunny costume and playful spirit. With her soft fur and curious eyes, Chibi brought joy to every corner she explored, always finding new boxes to hop into and friends to meet. Her gentle purrs and mischievous antics made her the town's beloved companion, spreading smiles and warmth wherever she went.
+          In the heart of a quaint little town, Oyen the cat captivated everyone with his adventurous spirit and unique style. With his soft fur and curious eyes, Oyen ventured into every corner, always ready for a new adventure. Whether he donned a traditional hat, a beanie, or a military helmet, Oyen's presence was always striking. Armed with his trusty gear and a playful demeanor, Oyen was not only the town's beloved companion but also its unexpected hero, spreading smiles and warmth wherever he went.
           </p>
         </div>
         <div className="--footer">
