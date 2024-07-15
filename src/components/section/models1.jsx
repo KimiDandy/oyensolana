@@ -30,12 +30,12 @@ export const SectionModel1 = () => {
         </div>
         <div className="--title text-white text-center">
           <div className="--heading font-black text-[40px] sm:text-[70px] md:text-[90px] lg:text-[110px] tracking-wide">
-            SOLANA <span className="text-[#FFD33B]">CHIBI</span>
+            SOLANA <span className="text-[#FFD33B]">Oyen</span>
           </div>
           <div className="--sub-heading text-[18px] sm:text-[34px] font-medium flex flex-col">
             <span className="text-[#FFD33B] font-black">Join The Family!</span>
             <span className="sm:-mt-2">
-              Together, we&apos;ll get rich. $CHIBI Leads the way!
+              Together, we&apos;ll get rich. $OYEN Leads the way!
             </span>
           </div>
         </div>
@@ -47,10 +47,10 @@ export const SectionModel1 = () => {
             className="lg:text-[20px] text-center flex items-center justify-center w-[200px] h-[200px] text-white font-bold py-3 px-6 sm:py-3 sm:px-6 rounded-[10px] bg-cover bg-center bg-no-repeat"
             style={{
               backgroundImage:
-                "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('cat/chibi1.jpg')",
+                "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('oyen/3.jpg')",
             }}
           >
-            About This, Click Here!
+            Click here for more!
           </a>
         </div>
       </div>
