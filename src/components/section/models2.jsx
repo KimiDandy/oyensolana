@@ -62,13 +62,13 @@ export const SectionModel2 = () => {
             <div className="--title">
               <p className="text-[34px] font-bold">Official Contract</p>
               <p className="text-[18px] font-medium">
-                {/* <span className="">Coming Soon</span>{" "} */}
                 <i
                   className={`bi ${
                     copied ? "bi-check-circle-fill" : "bi-clipboard-fill"
                   } cursor-pointer`}
                   onClick={copyToClipboard}
                 ></i>
+                <span className=""> 26MrQPEYgXNBPELkizzU7jRiv9vGzBg8yENvsFwstUkZ</span>{""}
               </p>
             </div>
           </div>
